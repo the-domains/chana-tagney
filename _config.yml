@@ -1,8 +1,19 @@
-layout_spectrum: 0.7112873
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.3544776
-  lightness: 0.1254122
-  brandStrength: 0.4123134
+  saturation: 1
+  brandStrength: 0.9564983
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#B4B4B4'
@@ -11,4 +22,5 @@ color:
     - '#3D4238'
   rhythmicContrast: 1
 typography_spectrum: 0.8945895
+layout_spectrum: 0.7112873
 name: Chana Tagney
