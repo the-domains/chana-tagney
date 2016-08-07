@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8945895
 color:
   saturation: 1
   brandStrength: 0
@@ -20,7 +21,6 @@ color:
     - '#AF0001'
     - '#9E9E9E'
     - '#017901'
-  rhythmicContrast: 0
-typography_spectrum: 0.8945895
+  rhythmicContrast: 1
 layout_spectrum: 0.7112873
 name: Chana Tagney
