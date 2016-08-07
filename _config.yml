@@ -12,14 +12,14 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.9564983
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#FFFFFF'
-    - '#0F0F0F'
-    - '#E3B8B0'
-    - '#30372F'
-    - '#6C79BD'
+    - '#000000'
+    - '#AF0001'
+    - '#9E9E9E'
+    - '#017901'
   rhythmicContrast: 0
 typography_spectrum: 0.8945895
 layout_spectrum: 0.7112873
